@@ -1,0 +1,2 @@
+include libmodbus.inc
+SRCREV="3da2d01916ef118aba30a1951d89e0ca0f90e2f7"
